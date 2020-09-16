@@ -1,7 +1,7 @@
 -- MY CONFIG OF XMONAD
 --
 -- Name: gypcemojo
--- email: dburgess983@gmail.com
+-- Email: dburgess983@gmail.com
 -- Just a simple starter config to get xmonad and xmobar working together.
 -- --------------------------------------------------------------------------
 
