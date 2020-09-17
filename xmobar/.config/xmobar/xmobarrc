@@ -1,4 +1,9 @@
-
+-- MY CONFIG OF XMOBAR
+--
+-- Name: gypcemojo
+-- Email: dburgess983@gmail.com
+-- Just a simple config to get xmobar running with the basics and working together with xmonad
+-- --------------------------------------------------------------------------
 
 Config { 
 
