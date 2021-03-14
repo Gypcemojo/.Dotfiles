@@ -2,6 +2,9 @@ syntax on
 
 set nu
 set incsearch
+set spelllang=en_us
+set spell
+set cursorline
 
 call plug#begin('~/.vim/plugged')
 Plug 'morhetz/gruvbox'
