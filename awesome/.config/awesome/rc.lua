@@ -318,6 +318,10 @@ globalkeys = gears.table.join(
     awful.util.spawn("brave") end,
               {description = "brave", group = "applications"}),
 
+    awful.key({ modkey },	     "q",      function ()
+    awful.util.spawn("qutebrowser") end,
+              {description = "qutebrowser", group = "applications"}),
+	      
     -- Prompt
     awful.key({ modkey },            "r",     function ()
     awful.util.spawn("dmenu_run") end,
